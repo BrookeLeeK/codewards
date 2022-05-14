@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "class27-materials",
+			"path": "../../../Downloads/class27-materials"
+		},
+		{
+			"name": "class26-materials",
+			"path": "../../../Downloads/class26-materials"
+		},
+		{
+			"name": "first",
+			"path": "../../APIhomework/first"
+		},
+		{
+			"path": "../../APIhomework/second"
+		},
+		{
+			"path": "../../APIhomework/third"
+		},
+		{
+			"path": "../../APIhomework/shots"
+		},
+		{
+			"path": "../../../Downloads/class28-materials"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "second",
+		"liveServer.settings.port": 5501,
+		"git.ignoreLimitWarning": true
+	}
+}
